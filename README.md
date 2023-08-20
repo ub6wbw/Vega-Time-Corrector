@@ -5,3 +5,5 @@ Time corrector for LoRaWAN devices with Vega-Absolute LoRaWAN module:
 #mqtt
 #python
 #lorawan
+#timecorrector
+#time-corrector
