@@ -1,4 +1,4 @@
-# Radix-IT, Makhachkala #
+#      Makhachkala      #
 ## Vega Time Corrector ##
 ### Magomedov Magomed ###
 
