@@ -9,3 +9,5 @@ for Chirp Stack
 # lorawan
 # timecorrector
 # time-corrector
+# vegatimecorrector
+# vega-time-corrector
