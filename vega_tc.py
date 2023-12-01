@@ -19,7 +19,6 @@ from time import sleep
 from time import time
 
 # MQTT (логин, пароль, IP сервера, порт, время жизни соединения):
-# Первые 3 пункта указываем свои
 mqtt_name = ''
 mqtt_pass = ''
 mqtt_server = ''
